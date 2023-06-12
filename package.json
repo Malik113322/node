@@ -1,0 +1,18 @@
+{
+    "name": "cls",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "nodemon": "^2.0.22",
+        "pokemon": "^2.3.5",
+        "unique-random": "^2.1.0",
+        "unique-random-array": "^2.0.0"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
